@@ -1,2 +1,2 @@
-# akks10.github.io
+# Claustrum GitHub
 Claustrum Shortened Demo
